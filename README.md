@@ -1,0 +1,14 @@
+# a16xmnsxx-user 14 UP1A.231005.007 A166PXXU2AXL2 release-keys
+- manufacturer: samsung
+- platform: mt6835
+- codename: a16xm
+- flavor: a16xmnsxx-user
+- release: 14
+- id: UP1A.231005.007
+- incremental: A166PXXU2AXL2
+- tags: release-keys
+- fingerprint: samsung/a16xmnsxx/a16xm:13/TP1A.220624.014/A166PXXU2AXL2:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a16xmnsxx-user-14-UP1A.231005.007-A166PXXU2AXL2-release-keys
+- repo: samsung_a16xm_dump
