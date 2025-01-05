@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCNTABLE>
+<!-- Chk3797, jiangyanjun.wt, add, 20240529, design screen off thermal policy method -->
+    <scenario powerhint="DISPLAY_INACTIVE">
+        <data cmd="PERF_RES_THERMAL_POLICY" param1="00"></data>
+        <data cmd="PERF_RES_POWERHAL_SCREEN_OFF_STATE" param1="1"></data>
+    </scenario>
+</SCNTABLE>

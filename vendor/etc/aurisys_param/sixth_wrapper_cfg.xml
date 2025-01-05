@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<sixth_wrapper_config>
+    <config_element name="hpf" enable="0" frq1="109" frq2="53" 
+        description="set hpf req"/>
+    <config_element name="vdd" enable="0" battery_node="/sys/devices/platform/battery/power_supply/battery/voltage_now" 
+        vdd_step="10000" description="read vdd and set ad_hoc gain, vdd_step(mv)">
+    </config_element> 
+    <config_element name="timer_cfg" enable="0" description="turn on/off timer"/>
+    <config_element name="debug_cfg" enable="0" description="turn on/off debug msg"/>
+    <config_element name="pvdd_limit_cfg" enable="0" description="turn on/off pvdd limit"/>
+</sixth_wrapper_config>
