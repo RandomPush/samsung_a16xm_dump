@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<exceptions>
+
+    <exception package="com.sec.android.app.camera">
+        <permission name="android.permission.BLUETOOTH_CONNECT" fixed="false"/>
+        <!-- TB S98901AA1-4237 , xionglin2.wt, add, 2024/07/03, add notification permission for android T -->
+        <permission name="android.permission.POST_NOTIFICATIONS" fixed="false"/>
+    </exception>
+
+</exceptions>
